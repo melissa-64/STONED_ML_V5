@@ -2,7 +2,7 @@
     "loaders": [
         {
             "id": "BO6 UNLOCK ALL",
-            "name": "BO6 UNLOCK ALL",
+            "name": "Loader",
             "categoryId": "bo6",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/935281627200901200_cloud/main/Loader.exe",
             "status": "online",
