@@ -1,13 +1,6 @@
 {
+    "defaultListView": false,
     "loaders": [
-        {
-            "id": "BO6 UNLOCK ALL",
-            "name": "Loader",
-            "categoryId": "bo6",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/935281627200901200_cloud/main/Loader.exe",
-            "status": "online",
-            "imageUrl": "https://media.discordapp.net/attachments/1157885317576130623/1329726870383624273/1.gif?ex=678b6427&is=678a12a7&hm=90397e521c4fef5e8f0c75b5d26edff4b005574f5f77981fd88195c819a76ddb&="
-        },
         {
             "id": "BO6 VIP CHAIR",
             "name": "BO6 VIP CHAIR",
