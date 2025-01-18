@@ -1,13 +1,4 @@
 {
     "defaultListView": false,
-    "loaders": [
-        {
-            "id": "BO6 VIP CHAIR",
-            "name": "BO6 VIP CHAIR",
-            "categoryId": "bo6",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/935281627200901200_cloud/main/Chair.exe",
-            "status": "online",
-            "imageUrl": "https://media.discordapp.net/attachments/1157885317576130623/1329817127976177674/3.gif?ex=678bb836&is=678a66b6&hm=4d7b0cb81a4171ddf2a3b1c76e736d36580ef6643178e9a1803be05d9fbd83b0&="
-        }
-    ]
+    "loaders": []
 }
