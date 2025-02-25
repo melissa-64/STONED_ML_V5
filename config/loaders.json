@@ -23,6 +23,14 @@
             "downloadUrl": "https://cloudbot.s3.fr-par.scw.cloud/935281627200901200/Loader.exe",
             "status": "online",
             "imageUrl": "https://cloudbot.s3.fr-par.scw.cloud/935281627200901200/2.png"
+        },
+        {
+            "id": "BO6 FORCE SAVER",
+            "name": "BO6 FORCE SAVER",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cloudbot.s3.fr-par.scw.cloud/935281627200901200/FORCE_SAVER_TOOL.exe",
+            "status": "online",
+            "imageUrl": "https://cloudbot.s3.fr-par.scw.cloud/935281627200901200/force_save.png"
         }
     ]
 }
