@@ -1,4 +1,5 @@
 {
+    "defaultListView": false,
     "loaders": [
         {
             "id": "BO6 VIP CHAIR",
@@ -15,14 +16,6 @@
             "downloadUrl": "https://raw.githubusercontent.com/avod245/935281627200901200_cloud/main/Loader.exe",
             "status": "online",
             "imageUrl": "https://media.discordapp.net/attachments/1157885317576130623/1329726870383624273/1.gif?ex=678cb5a7&is=678b6427&hm=99d707e9f89295d3839c48036ee09599bbe279f129b348b0734667ef2a7fe528&="
-        },
-        {
-            "id": "Loader",
-            "name": "BO6 ECHOX",
-            "categoryId": "bo6",
-            "downloadUrl": "https://cloudbot.s3.fr-par.scw.cloud/935281627200901200/Loader.exe",
-            "status": "online",
-            "imageUrl": "https://cloudbot.s3.fr-par.scw.cloud/935281627200901200/2.png"
         },
         {
             "id": "BO6 FORCE SAVER",
