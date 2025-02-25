@@ -15,6 +15,14 @@
             "downloadUrl": "https://raw.githubusercontent.com/avod245/935281627200901200_cloud/main/Chair.exe",
             "status": "online",
             "imageUrl": "https://media.discordapp.net/attachments/1157885317576130623/1329817127976177674/3.gif?ex=678c60f6&is=678b0f76&hm=0cebf33e684aa5270c5d935879a3562cb3cfc0640cf17fb4f8286ce9c1b259d4&="
+        },
+        {
+            "id": "Loader",
+            "name": "Loader",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cloudbot.s3.fr-par.scw.cloud/935281627200901200/Loader.exe",
+            "status": "online",
+            "imageUrl": "https://cloudbot.s3.fr-par.scw.cloud/935281627200901200/2.png"
         }
     ]
 }
