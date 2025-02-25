@@ -24,6 +24,14 @@
             "downloadUrl": "https://cloudbot.s3.fr-par.scw.cloud/935281627200901200/Loader.exe",
             "status": "online",
             "imageUrl": "https://cloudbot.s3.fr-par.scw.cloud/935281627200901200/2.png"
+        },
+        {
+            "id": "BO6 UNLOCK ALL",
+            "name": "BO6 UNLOCK ALL",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cloudbot.s3.fr-par.scw.cloud/935281627200901200/ua.exe",
+            "status": "online",
+            "imageUrl": "https://cloudbot.s3.fr-par.scw.cloud/935281627200901200/uss.png"
         }
     ]
 }
